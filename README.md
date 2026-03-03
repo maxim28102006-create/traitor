@@ -62,3 +62,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 Изменение 2 от branch1
 Изменение 3 от branch1
 Доп1
+Доп2
